@@ -1,1 +1,1 @@
-# Buisness-Analytics
+# Capstone Projects
